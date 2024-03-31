@@ -1,0 +1,11 @@
+{
+  "name": "astarionreview",
+  "version": "1.0.0",
+  "description": "Attestation-Based Dapp Rating System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@ASTARIONCrypto",
+  "license": "MIT"
+}
