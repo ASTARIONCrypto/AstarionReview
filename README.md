@@ -5,4 +5,8 @@ https://contribute.optimism.io/issue/attestation-based-app-rating
 
 # ToDo
 
-See todo.md
+See todo.md https://github.com/ASTARIONCrypto/AstarionReview/blob/main/todo.md
+
+# Contributor info
+
+
