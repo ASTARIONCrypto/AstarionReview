@@ -1,6 +1,6 @@
 [x] Create a PR. Copy pates this todo list into the description.
 
-[ ] Create a discussion thread:
+[x] Create a discussion thread:
 
 Inside this repo in Discussions
 In the Optimism Discord > Builder District > Builder Ideas.
