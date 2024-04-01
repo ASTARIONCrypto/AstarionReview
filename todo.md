@@ -6,7 +6,7 @@ Inside this repo in Discussions
 In the Optimism Discord > Builder District > Builder Ideas.
 Note you will need to get the developer role in Discord to see the Builder District.
 
-[ ] Fill in the contributor info:
+[x] Fill in the contributor info:
 
   ``` md
   contributors: [""]
@@ -14,13 +14,13 @@ Note you will need to get the developer role in Discord to see the Builder Distr
   links: [""]
   execution-status: ""
   ```
-[ ] Add the team working on it. The format is "@handle (Platform) @ team". For example: ["@tezter (GitHub) @ DeFo", "@jack (Twitter)"]
+[x] Add the team working on it. The format is "@handle (Platform) @ team". For example: ["@tezter (GitHub) @ DeFo", "@jack (Twitter)"]
 
-[ ] Add the link to your discussion in GitHub/Discord. You can ONLY HAVE ONE LINK for your discussion.
+[x] Add the link to your discussion in GitHub/Discord. You can ONLY HAVE ONE LINK for your discussion.
 
-[ ] (OPTIONAL) Add links to your repository, the website for the build, or other relevant links for your build.
+[x] (OPTIONAL) Add links to your repository, the website for the build, or other relevant links for your build.
 
-[ ] Add your execution status:
+[x] Add your execution status:
 
 "not-started": This idea does not currently have anyone working on it. Why don't you pick it up?
 
